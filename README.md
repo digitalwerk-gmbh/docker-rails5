@@ -3,9 +3,9 @@
 Docker container for application development using rails 5.
 Pull command:
 
-´´´
+```
 docker pull couchbelag/rails5
-´´´
+```
 
 
 ## Getting started
